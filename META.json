@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "Add support for sharethis.com",
    "author" : [
       "Adam Stokes <adamjs@cpan.org>"
    ],
@@ -46,6 +46,20 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/battlemidget/Mojolicious-Plugin-ShareThis/issues"
+      },
+      "homepage" : "https://github.com/battlemidget/Mojolicious-Plugin-ShareThis",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/battlemidget/Mojolicious-Plugin-ShareThis.git",
+         "web" : "https://github.com/battlemidget/Mojolicious-Plugin-ShareThis"
+      }
+   },
+   "version" : "0.01",
+   "x_contributors" : [
+      "Adam Stokes <adam.stokes@ubuntu.com>"
+   ]
 }
 

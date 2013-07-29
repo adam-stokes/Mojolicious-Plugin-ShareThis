@@ -1,6 +1,6 @@
 # NAME
 
-Mojolicious::Plugin::ShareThis - Blah blah blah
+Mojolicious::Plugin::ShareThis - Add support for sharethis.com
 
 # SYNOPSIS
 
@@ -8,7 +8,8 @@ Mojolicious::Plugin::ShareThis - Blah blah blah
 
 # DESCRIPTION
 
-Mojolicious::Plugin::ShareThis is
+Mojolicious::Plugin::ShareThis is a simple plugin to include sharethis support
+to pages, blog posts, and anything else that displays html.
 
 # AUTHOR
 
